@@ -19,7 +19,7 @@ I'm a passionate self-taught {backend and frontend} developer from Brazil.
   <a href = "mailto: andreyuridemelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreyuri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AndreYurii)
+  ![Snake animation](https://github.com/AndreYurii/AndreYurii/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
